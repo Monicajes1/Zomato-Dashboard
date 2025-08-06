@@ -1,0 +1,34 @@
+Zomato-Style Power BI Dashboard
+
+This project presents a visually-rich, interactive Power BI dashboard inspired by the Zomato food delivery platform. The goal was to simulate a real-world business analytics scenario using cleaned and modeled data in Excel, providing key insights into restaurant performance, customer behavior, and food trends.
+
+Project Objective
+
+To design a single-page dashboard that mimics the layout and functionality of Zomato’s analytics UI — showcasing critical KPIs, trends, and filters that a food delivery company might use for decision-making.
+
+Datasets Used
+
+All data files were prepared and cleaned by Power BI using Power Query Editor..
+
+- Orders.xlsx : Order details including date, amount, restaurant ID, and customer ID       |
+- Customers.xlsx : Customer demographics and city/location data                               |
+- Restaurants.xlsx : Restaurant names, cuisines, and city info                                |
+- Menu.xlsx : Menu items offered by each restaurant                                       |
+
+Dashboard Highlights
+
+The dashboard includes:
+
+- Key KPIs: Total Orders, Total Revenue, AOV
+- Line and Clustered Cloumn Chart: Total orders and Revenue by Month
+- Pie chart: Total Revenue by Year
+- Clustered Bar Chart: Total Revenue by Food Type
+- Slicer: City and Month
+
+Tools Used
+
+- Microsoft Power BI: Data cleaning, Data modeling and dashboard creation
+
+---
+
+Dashboard Screenshot
